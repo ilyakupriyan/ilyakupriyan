@@ -8,6 +8,10 @@
 
 ---
 
+### 👨‍🎓 Образование:
+
+---
+
 ### 🤙 Связь со мной
 <div id="padges">
   <a href = "https://vk.com/ilyich112" target="_blank">
