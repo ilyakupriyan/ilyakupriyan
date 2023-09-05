@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<h1 align = "center">Привет, меня зовут Илья!</h1>
+---
+### :man_technologist: Обо мне :
 <!--
 **ilyakupriyan/ilyakupriyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
